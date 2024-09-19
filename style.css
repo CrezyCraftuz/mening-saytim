@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+img {
+    max-width: 100%;
+    vertical-align: middle;
+}
+.aes {
+    text-decoration: none;
+    color: blue;
+    font-size: 22px;
+}
+.img {
+    width: 48%;
+    border-radius: 5px;
+    background-position: right;
+    justify-content: space-between;
+}
+.big {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+.medium {
+    width: 50%;
+}
+.p {
+    font-size: 25px;
+    margin-right: 2%;
+}
+.dives {
+    display: flex;
+    flex-wrap: wrap;
+}
+.input {
+    width: 30%;
+    font-size: 20px;
+}
